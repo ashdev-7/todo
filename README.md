@@ -35,5 +35,4 @@ The app will be available at `http://localhost:5173/`.
 - **Great for Learning**: Ideal for beginners to practice React and state management.
 
 ---
-🚀 **Try it out and contribute if you’d like!** 😊
 
